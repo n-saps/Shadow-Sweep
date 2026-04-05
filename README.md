@@ -1,4 +1,4 @@
-# shadowsweep
+# Shadowsweep
 ShadowSweep – Android Threat Analysis Tool
 
 ShadowSweep is a Python-based forensic tool for Android threat detection and analysis.
